@@ -243,7 +243,7 @@ df = load_data()
 # ================== Header ==================
 st.markdown(f"""
 <div class="hero">
-  <h1 style="margin:0 0 6px 0;">🔄 IDSMED - Mediva</h1>
+  <h1 style="margin:0 0 6px 0;">🔄 IDSMED - Mediva Batch 2</h1>
   <div style="opacity:.95;">IDSMED–Mediva Spare Parts Buyback Tracking System · Location: Logos · Managed by Akmaludin Agustian for Heru Utomo</div>
 </div>
 """, unsafe_allow_html=True)
