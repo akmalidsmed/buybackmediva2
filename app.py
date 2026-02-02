@@ -151,7 +151,7 @@ INITIAL_DATA = [
 {"NO": 	51	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7012-056	", "DESCRIPTION": "	SPACER FIXED HANDPIECE	", "QTY": 	1	},
 {"NO": 	52	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7017-012	", "DESCRIPTION": "	ASSY, CABLE, SHUTTER OUT	", "QTY": 	1,
 "Qty_Buyback": 1, "Status": "Sudah",
-        "Tanggal_Buyback": datetime.date(2025, 3, 6), "Catatan": "Untuk team PM"
+        "Tanggal_Buyback": datetime.date(2026, 30, 6), "Catatan": "Untuk team PM"
 },
 
     
