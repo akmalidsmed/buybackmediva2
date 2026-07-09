@@ -160,7 +160,7 @@ INITIAL_DATA = [
     
 {"NO": 	53	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	706-0173-000	", "DESCRIPTION": "	WRENCH LOCKNUT HP	", "QTY": 	2	},
 {"NO": 	54	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	102-0189	", "DESCRIPTION": "	LENS,  +60MM X 20MM DIA, ROHS 2 (HF I)	", "QTY": 	1	},
-{"NO": 	55	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	345-0000-009	", "DESCRIPTION": "	FILTER, DEIONIZER, 2 1/4 X 5, LG, ROHS	", "QTY": 	1	
+{"NO": 	55	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	345-0000-009	", "DESCRIPTION": "	FILTER, DEIONIZER, 2 1/4 X 5, LG, ROHS	", "QTY": 	1,	
 "Qty_Buyback": 1, "Status": "Sudah",
         "Tanggal_Buyback": datetime.date(2026, 7, 6), "Catatan": "Untuk The Premiera Semarang"
 },
