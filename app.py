@@ -114,7 +114,10 @@ INITIAL_DATA = [
 {"NO": 	14	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	424-0017	", "DESCRIPTION": "	PUMP, DIRECT DRIVE 24VDC	", "QTY": 	10	},
 {"NO": 	15	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	990-8006-200	", "DESCRIPTION": "	FLASHLAMP, LIN, 6ARC, 7X9MM, 200T (PDL)	", "QTY": 	8	},
 {"NO": 	16	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7017-018	", "DESCRIPTION": "	ASSY, AIMING BEAM, MEDLITE (REV. 7)	", "QTY": 	3	},
-{"NO": 	17	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	S100-7012-200	", "DESCRIPTION": "	ASSY, MULTIWAVE SMART HPA, PICO	", "QTY": 	1	},
+{"NO": 	17	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	S100-7012-200	", "DESCRIPTION": "	ASSY, MULTIWAVE SMART HPA, PICO	", "QTY": 	1,
+"Qty_Buyback": 1, "Status": "Sudah",
+        "Tanggal_Buyback": datetime.date(2026, 10, 21), "Catatan": "Untuk Erha Pondok Indah"	
+},
 {"NO": 	18	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	S100-7012-200	", "DESCRIPTION": "	ASSY, MULTIWAVE SMART HPA, PICO	", "QTY": 	1	},
 {"NO": 	19	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7012-051	", "DESCRIPTION": "	HANDPIECE ZOOM	", "QTY": 	2,	
 "Qty_Buyback": 1, "Status": "Sudah Sebagian",
@@ -138,8 +141,14 @@ INITIAL_DATA = [
 {"NO": 	33	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7002-790	", "DESCRIPTION": "	ASSY, LIGHT GUIDE, CYNERGY	", "QTY": 	1	},
 {"NO": 	34	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7002-175	", "DESCRIPTION": "	ASSY SHUTTER BEAM BLOCK	", "QTY": 	1	},
 {"NO": 	35	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	659-0613	", "DESCRIPTION": "	O-RING KIT HEAD KIT, FOR 647-1800 HEAD ASSY	", "QTY": 	12	},
-{"NO": 	36	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7012-052	", "DESCRIPTION": "	HANDPIECE 10 MM	", "QTY": 	1	},
-{"NO": 	37	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7012-053	", "DESCRIPTION": "	HANDPIECE 8 MM	", "QTY": 	1	},
+{"NO": 	36	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7012-052	", "DESCRIPTION": "	HANDPIECE 10 MM	", "QTY": 	1,
+"Qty_Buyback": 1, "Status": "Sudah",
+        "Tanggal_Buyback": datetime.date(2026, 10, 21), "Catatan": "Untuk Erha Pondok Indah"	
+},
+{"NO": 	37	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7012-053	", "DESCRIPTION": "	HANDPIECE 8 MM	", "QTY": 	1,
+"Qty_Buyback": 1, "Status": "Sudah",
+        "Tanggal_Buyback": datetime.date(2026, 10, 21), "Catatan": "Untuk Erha Pondok Indah"	
+},
 {"NO": 	38	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	661-0053-9	", "DESCRIPTION": "	ASSY, I/O CONTROLLER, NOT PROGRAMMED	", "QTY": 	1	},
 {"NO": 	39	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	805-7012-020	", "DESCRIPTION": "	REFL, HR,3.2MCC,755NM,1 DIA,ROHS (PCMR)	", "QTY": 	1	},
 {"NO": 	40	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	805-7012-020	", "DESCRIPTION": "	REFL, HR,3.2MCC,755NM,1 DIA,ROHS (PCMR)	", "QTY": 	1	},
@@ -153,7 +162,10 @@ INITIAL_DATA = [
 {"NO": 	48	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	710-8045-000	", "DESCRIPTION": "	ASSY YAG SMART BOARD PCB, ROHS	", "QTY": 	1	},
 {"NO": 	49	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	710-8045-000	", "DESCRIPTION": "	ASSY YAG SMART BOARD PCB, ROHS	", "QTY": 	1	},
 {"NO": 	50	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	710-8045-000	", "DESCRIPTION": "	ASSY YAG SMART BOARD PCB, ROHS	", "QTY": 	1	},
-{"NO": 	51	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7012-056	", "DESCRIPTION": "	SPACER FIXED HANDPIECE	", "QTY": 	1	},
+{"NO": 	51	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7012-056	", "DESCRIPTION": "	SPACER FIXED HANDPIECE	", "QTY": 	1,
+"Qty_Buyback": 1, "Status": "Sudah",
+        "Tanggal_Buyback": datetime.date(2026, 10, 21), "Catatan": "Untuk Erha Pondok Indah"	
+},
 {"NO": 	52	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7017-012	", "DESCRIPTION": "	ASSY, CABLE, SHUTTER OUT	", "QTY": 	1,
 "Qty_Buyback": 1, "Status": "Sudah",
         "Tanggal_Buyback": datetime.date(2026, 1, 30), "Catatan": "Untuk Erha Clinic Lombok"
@@ -167,7 +179,10 @@ INITIAL_DATA = [
         "Tanggal_Buyback": datetime.date(2026, 7, 6), "Catatan": "Untuk The Premiera Semarang"
 },
 
-    {"NO": 	56	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7012-064	", "DESCRIPTION": "	SPACER ZOOM HANDPIECE	", "QTY": 	1	},
+{"NO": 	56	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	100-7012-064	", "DESCRIPTION": "	SPACER ZOOM HANDPIECE	", "QTY": 	1,
+"Qty_Buyback": 1, "Status": "Sudah",
+        "Tanggal_Buyback": datetime.date(2026, 10, 21), "Catatan": "Untuk Erha Pondok Indah"	
+},
 {"NO": 	57	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	805-1836-005	", "DESCRIPTION": "	LENS, PL/CX, 18X36FL, 585, 755, 1064, ROHS	", "QTY": 	1	},
 {"NO": 	58	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	805-1224-005	", "DESCRIPTION": "	LENS, PL/CX, 12X24FL, 585, 755, 1064, ROHS	", "QTY": 	1	},
 {"NO": 	59	, "PRINCIPAL": "CYNOSURE", "PART NUMBER": "	805-1248-005	", "DESCRIPTION": "	LENS, PL/CX, 12X48FL, 585, 755, 1064, ROHS	", "QTY": 	1	},
